@@ -1,1 +1,12 @@
-The Repo contains detailed demonstration of RAG pipeline using llama indexing and Mistral-7B and OpenAI vision model for Creating Vector Databases of the model and then Creating Embeddings of those Vectors and creating a Retriever which for the given prompt also creates those embeddings and sends to the LLM which searches from the document which has the created embeddings and generates a output
+# RAG Models Pipeline
+## Overview
+
+This repository provides a detailed demonstration of a Retrieval-Augmented Generation (RAG) pipeline using Llama Indexing, Mistral-7B, and the OpenAI Vision model. The pipeline includes creating vector databases, generating embeddings, and retrieving relevant information based on a given prompt.
+
+## Features
+
+- **RAG Pipeline**: Demonstrates the full RAG pipeline including vector database creation, embeddings generation, and retrieval.
+- **Llama Indexing**: Efficiently indexes documents for quick retrieval.
+- **Mistral-7B**: Leverages the powerful Mistral-7B model for language understanding.
+- **OpenAI Vision Model**: Integrates the OpenAI Vision model for advanced vision capabilities.
+
